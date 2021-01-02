@@ -1,0 +1,119 @@
+@media (max-width: 1399px) {
+		.navbar-brand img {width: 105px;}
+		.badge-img img { width: 131px;}
+		.banner-txt h1 span { font-size: 43px; }
+		.banner-txt h1 {font-size: 43px;}
+		.banner-txt h3 {font-size: 28px;
+						padding-top: 24px;
+						padding-bottom: 36px;}
+	    .quote h1 {}
+	    .quote-section { padding: 70px 0px;}
+	    .gallery-1 {padding-top: 0px;}
+	    .gallery-2 {}
+	    .announcement {padding-top: 60px;}
+	    .feature-section { padding: 70px 0px;}
+	    .design-img h1 {height: 356px;}
+	    .design-img img {height: 356px;}
+	    .sign-up-section {padding: 80px 0px;}
+	    .sign-up-section img {width: 132px;}
+	    .sign-up-section h1 {font-size: 30px;}
+	    .review-section .reviews span {display: initial;}
+	    .reviews h3 {font-size: 17px;}
+	    .review-cont {padding: 40px 30px;} 
+}
+
+
+@media (max-width: 1199px) {
+	.banner-section h1 {padding: 0px 140px !important}
+	.quote-section {padding: 60px 0px;}
+	.feature-1 h3 {font-size: 16px;}
+	span .line {width: 70px !important}
+	.feature-1 p {
+    			line-height: 28px;
+    			font-size: 14px;}
+    .design-img h1 {font-size: 42px;
+    				height: 300px;}
+	.design-img img {height: 300px;}
+	.reviews h3 {font-size: 15px;}
+}
+
+@media (max-width: 991px) {
+	.banner-txt h1 {line-height: 62px;}
+	.banner-txt h1 span {line-height: 62px;}
+	.quote-section h1 { font-size: 32px;
+    					line-height: 49px}
+    .quote-section p {padding: 20px 30px;}
+	.gallery-1 img {width: 100%;
+					height: 400px;
+					object-fit: cover;}
+	.gallery-2 img {width: 100%;
+					height: 400px;
+					object-fit: cover;}
+	.announcement h1 {font-size: 32px;}
+	.announcement p { padding: 0px 50px;
+    			      padding-bottom: 34px;}
+    .feature-section h1 {font-size: 32px;}
+    .feature-section span {width: 135px;}
+    .design-img h1 {height: 250px;
+    				font-size: 32px;
+    				padding-top: 65px;}
+    .design-img img {height: 250px;
+    				 object-fit: cover;}
+    .design-img-2 img {height: 300px;
+    				   object-fit: cover;}
+    .sign-up-section {padding: 60px 0px;}
+    .sign-up-section img {width: 118px;}
+    .sign-up-section h1	{font-size: 25px;}
+}
+
+@media (max-width: 767px) {
+	.sale-announcement h3 {font-size: 15px;}
+	.banner-section {padding: 70px 0px;}
+	.banner-txt h1 {font-size: 32px;
+    				line-height: 54px;}
+	.banner-txt h1 span {font-size: 32px;
+    				  line-height: 54px;}
+    .badge-img img {width: 108px;
+    				padding-bottom: 24px;}
+    .banner-txt h3 {font-size: 21px;}
+    .banner-txt a { padding: 13px 10px;
+    				font-size: 14px;}
+    .gallery-1 img {height: 300px;}
+    .gallery-2 img {height: 300px;}
+    .gallery-2 {padding-bottom: 80px;}
+    .announcement-img img {height: 300px;}
+    .announcement p { font-size: 13px;
+    				  line-height: 28px;
+    				  padding: 0px 19px;
+    				  padding-bottom: 40px;}
+    .feature-1 {text-align: center;}
+    .feature-1 p {padding: 0px 40px;}
+    .design-section {padding-top: 60px;
+    				 padding-bottom: 60px;}
+    .design-img h1 {height: 300px; 
+    				object-fit: cover;
+    				padding: 128px 0px;}
+    .design-img img {width: 100%;
+    				height: 300px; 
+    				object-fit: cover;}
+    .copyright-section span	{width: 300px;}
+    .review-section {padding-top: 60px;}
+    .review-section h2 {line-height: 54px;}
+
+}
+
+@media (max-width: 575px) {
+	.banner-txt h1 {font-size: 28px;
+    				padding: 0px 20px !important;}
+    .banner-txt h1 span {font-size: 28px;
+    					padding: 0px 20px !important;}
+    .design-img-2 img {width: 100%;
+    				height: 300px;
+    				object-fit: cover;}
+    .review-section h2 {font-size: 26px;
+    					line-height: 39px;}
+}
+
+@media (max-width: 400px) {
+	
+}

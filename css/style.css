@@ -1,0 +1,349 @@
+header {}
+header .navbar {
+    background-color: #F1EEE9 !important
+}
+header .navbar-nav {
+    align-items: center;
+    
+}
+.nav-item  {}
+.nav-item a {
+    font-size: 18px;
+    font-weight: 600;
+    padding-left: 0 !important;
+    padding: 10px 20px !important;
+    transition: 0.3s;
+}
+.nav-item a:hover {background: black;
+                   color: white !important;
+                   ;}
+.navbar-brand {/* padding: 0px 222px; */margin-right: 0px;}
+.navbar-brand img{
+    width: 156px;
+}
+.nav-icons {
+    
+padding-left: 50px;
+    
+margin-right: 0;
+}
+.nav-icons ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+.nav-icons i{
+    font-size: 19px;
+    color: #333;
+    padding-right: 0px;
+}
+
+.sale-announcement {}
+.sale-announcement .container-fluid{
+    padding-right: 0; 
+    padding-left: 0;
+}
+.sale-announcement h3{
+    text-align: center;
+    font-size: 18px;
+    padding: 12px 0px;
+    color: orange;
+    background: #333;
+    font-weight: 500;
+    margin: 0px;
+}
+
+.banner-section {
+    background-image: url(../images/00.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #000000b3;
+    background-blend-mode: overlay;
+}
+
+.badge-img {}
+.badge-img img {}
+.banner-txt {}
+.banner-txt h1{
+    font-size: 48px;
+    color: #dacab0;
+    font-weight: 500;
+}
+.banner-txt h1 span{
+    font-size: 57px;
+    color: #b56251;
+    line-height: 87px;
+}
+.banner-txt h3{
+    font-size: 31px;
+    color: white;
+    font-weight: 400;
+    padding-top: 40px;
+    padding-bottom: 55px;
+}
+.banner-txt a{
+    text-decoration: none;
+    background-color: #b56251;
+    padding:  15px 20px;
+    border-radius: 10px;
+    color: #fffbf4;
+    text-transform: capitalize;
+    transition: 0.3s
+}
+.banner-txt a:hover {
+    background: #3e392f;
+    color: #EFECE7;
+    
+}
+
+.quote-section {
+    padding: 100px 0px;
+    background-color: #F1EEE9;
+}
+.quote-section h1{
+    font-size: 42px;
+    line-height: 57px;
+    color: #583517;
+    font-weight: 400;
+}
+.quote-section span{
+    display: inline-block;
+    width: 175px;
+    background-color: #b56251;
+    padding: 1px 0px;
+}
+.quote-section p{
+    padding: 20px 0px;
+    margin: 0;
+    font-size: 15px;
+    color: #333;
+    line-height: 32px;
+}
+.bold {
+    padding-top: 0px !important;
+}
+
+.gallery-1 {
+    background-color: #F1EEE9;
+    padding-bottom: 1.5rem;
+}
+.gallery-1 img{}
+
+.gallery-2 {
+    background-color: #F1EEE9;
+    padding-bottom: 100px;
+}
+.gallery-2 .img-box {}
+
+.announcement {
+    padding-top: 100px;
+    background-color: #884537;
+    padding-bottom: 55px;
+}
+.announcement h1{
+    font-size: 42px;
+    line-height: 57px;
+    color: #f1eee9;
+    font-weight: 400;
+}
+.announcement span {
+    display: inline-block;
+    width: 175px;
+    background-color: #f3a402;
+    padding: 1px 0px;
+}
+.announcement-img {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.announcement-img img {
+    height: 520px;
+    object-fit: cover;
+}
+.announcement p{
+    margin: 0;
+    font-size: 15px;
+    color: #fff8e8;
+    line-height: 32px;
+    padding-bottom: 38px;
+}
+.announcement a{
+    text-decoration: none;
+    background-color: #f1eee9;
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: #7E4033;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.announcement a:hover {
+    background: #3e392f;
+    color: #F3F3F3;
+    transition: 0.3s;
+}
+
+.feature-section {
+    padding: 100px 0px;
+    background-color: black;
+}
+.feature-section h1{font-size: 42px;line-height: 57px;color: #f1eee9;font-weight: 400;margin: 0px;margin-bottom: 22px;}
+.feature-section span{
+    display: inline-block;
+    width: 235px;
+    background-color: #f3a402;
+    padding: 1px 0px;
+}
+.feature-img {padding: 70px 0px;}
+.feature-img img{}
+.feature-1 {
+    padding-top: 59px;
+}
+.feature-1 img {}
+.content {}
+.content h3 {
+    font-size: 20px;
+    color: #ca4f35;
+    font-weight: 500;
+    margin: 0px !important;
+    padding-top: 20px;
+}
+.content p {
+    margin: 0;
+    font-size: 15px;
+    color: #ffffff85;
+    line-height: 32px;
+}
+.line {
+    width: 100px !important;
+    background-color: #fffffc !important;
+    padding: 0.5px 0px !important;
+}
+.design-section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.design-img h1{
+    background-color: #884537 !important;
+    margin: 0px;
+    height: 407px;
+    text-align: center;
+    padding: 80px 0px;
+    font-size: 60px;
+    font-weight: 500;
+    color: #FFF8E8;
+    margin: 0px;
+    text-transform: capitalize;
+}
+.design-img {
+   
+}
+.design-img img{height: 407px;}
+.design-img-2 {}
+.design-img-2 img {}
+
+.sign-up-section {
+    background: #1B1717;
+    padding: 100px 0px;
+}
+.sign-up-section img{
+    padding-bottom: 34px;
+}
+.sign-up-section h1{
+    color: #ffffe6;
+    font-weight: 500;
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+.sign-up-section a{
+    text-decoration: none;
+    background-color: #b56251;
+    padding: 15px 31px;
+    border-radius: 10px;
+    color: #fffbf4;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.sign-up-section a:hover {    
+    background: #3e392f;
+    color: #EFECE7;
+    transition: 0.3s}
+
+.review-section {
+    background-color: #e0e0e0;
+    padding: 100px 0px;
+    padding-bottom: 66px;
+}
+.review-section h2{
+    font-size: 32px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.review-section span{
+    display: inline-block;
+    width: 235px;
+    background-color: #f3a402;
+    padding: 1px 0px;
+    margin-bottom: 60px;
+}
+.review-cont {
+    background-color: white;
+    padding: 62px 90px;
+}
+.reviews {
+    /* padding: 70px 0px; */
+    margin-bottom: 30px;
+}
+.reviews p{/* padding: 0px 96px; */font-size: 15px;line-height: 30px;color: #333;}
+.reviews h3{
+    padding-top: 41px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+    padding-bottom: 17px;
+}
+.review-section .reviews span{
+    background: none;
+    font-size: 13px;
+    font-weight: 400;
+    color: #333c;
+}
+.review-section a {
+    text-decoration: none;
+    background-color: #b56251;
+    padding: 15px 31px;
+    border-radius: 10px;
+    color: #fffbf4;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.review-section a:hover {
+    background: #3e392f;
+    color: #EFECE7;
+    transition: 0.3s}
+}
+.margin-x {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.copyright-section {
+    background-color: #e0e0e0;
+}
+.copyright-content {
+    padding: 15px  0px;
+    padding-top: 0px;
+}
+.copyright-section span {
+    width: 580px;
+    padding: 1px 0px;
+    background-color: #cecece;
+    display: inline-block;
+}
+.copyright-section p {
+    margin: 0;
+    font-size: 15px;
+    color: #333;
+    font-weight: 600;
+}
